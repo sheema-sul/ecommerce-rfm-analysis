@@ -117,7 +117,7 @@ monthly_sales = (
 fig2, ax2 = plt.subplots(figsize=(12,6))
 
 monthly_sales.plot(color='black', ax=ax2)
-j
+
 ax2.set_xlabel("Month")
 ax2.set_ylabel("Revenue")
 
