@@ -17,28 +17,28 @@ The project is built using **Python**, visualized through an interactive **Strea
 Below is the Streamlit dashboard interface of the project:
 
 ### KPI Metrics
-![KPI Metrics](screenshots/screenshot_1.png)
+![KPI Metrics](screenshots/Screenshot_1.png)
 
 ### Monthly Revenue Trend
-![Monthly Revenue Trend](screenshots/screenshot_2.png)
+![Monthly Revenue Trend](screenshots/Screenshot_2.png)
 
 ### Top Countries by Revenue
-![Top Countries](screenshots/screenshot_3.png)
+![Top Countries](screenshots/Screenshot_3.png)
 
 ### Top Selling Products
-![Top Products](screenshots/screenshot_4.png)
+![Top Products](screenshots/Screenshot_4.png)
 
 ### Customer Segment Distribution
-![Customer Segments](screenshots/screenshot_5.png)
+![Customer Segments](screenshots/Screenshot_5.png)
 
 ### Revenue by Customer Segment
-![Segment Revenue](screenshots/screenshot_6.png)
+![Segment Revenue](screenshots/Screenshot_6.png)
 
 ### Top 10 Customers by Revenue
-![Top Customers](screenshots/screenshot_7.png)
+![Top Customers](screenshots/Screenshot_7.png)
 
 ### Recency Distribution
-![Recency Distribution](screenshots/screenshot_8.png)
+![Recency Distribution](screenshots/Screenshot_8.png)
 
 ---
 
